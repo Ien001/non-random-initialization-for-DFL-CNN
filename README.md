@@ -8,7 +8,7 @@ Still, there are some issues worth discussing, like "why a special initializatio
 
 Thanks for @songdejia's work in reimplementing DFL-CNN, I cannot do this without his/her pervious contribution!  
   
-If you have any question, plz tell me through issue.  
+If you have any question, plz tell me through issue.☺️  
   
 Best,  
 Ian
